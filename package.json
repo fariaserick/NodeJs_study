@@ -1,0 +1,20 @@
+{
+  "name": "nodejs_study",
+  "version": "1.0.0",
+  "description": "Node Js Study",
+  "main": "index.js",
+  "scripts": {
+    "start": "node socket.io.js",
+    "test": "echo 'Error: no test specified' && exit 1"
+  },
+  "author": "Erick Saunders de Farias",
+  "license": "MIT",
+  "dependencies": {
+    "asynquence": "^0.10.2",
+    "asynquence-contrib": "^0.28.2",
+    "coffe-script": "0.0.1-security",
+    "http": "0.0.0",
+    "node-static": "^0.7.11",
+    "socket.io": "^2.2.0"
+  }
+}
